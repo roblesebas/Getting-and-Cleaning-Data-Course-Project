@@ -1,0 +1,53 @@
+# Code Book
+
+This code book explains the main variables in tidy.txt file
+
+## Identifiers
+
+- subject:  The id of the person who participate in the experiment
+- activity: activities performed by each person
+
+## Measurements
+                                      
+ [3] "timeBodyAcc-mean()-X"                            
+ [4] "timeBodyAcc-mean()-Y"                            
+ [5] "timeBodyAcc-mean()-Z"                            
+ [6] "timeGravityAcc-mean()-X"                         
+ [7] "timeGravityAcc-mean()-Y"                         
+ [8] "timeGravityAcc-mean()-Z"                         
+ [9] "timeBodyAccJerk-mean()-X"                        
+[10] "timeBodyAccJerk-mean()-Y"                        
+[11] "timeBodyAccJerk-mean()-Z"                        
+[12] "timeBodyGyroscope-mean()-X"                      
+[13] "timeBodyGyroscope-mean()-Y"                      
+[14] "timeBodyGyroscope-mean()-Z"                      
+[15] "timeBodyGyroscopeJerk-mean()-X"                  
+[16] "timeBodyGyroscopeJerk-mean()-Y"                  
+[17] "timeBodyGyroscopeJerk-mean()-Z"                  
+[18] "timeBodyAccMag-mean()"                           
+[19] "timeGravityAccMag-mean()"                        
+[20] "timeBodyAccJerkMag-mean()"                       
+[21] "timeBodyGyroscopeMag-mean()"                     
+[22] "timeBodyGyroscopeJerkMag-mean()"                 
+[23] "frequencyrequencyBodyAcc-mean()-X"               
+[24] "frequencyrequencyBodyAcc-mean()-Y"               
+[25] "frequencyrequencyBodyAcc-mean()-Z"               
+[26] "frequencyrequencyBodyAccJerk-mean()-X"           
+[27] "frequencyrequencyBodyAccJerk-mean()-Y"           
+[28] "frequencyrequencyBodyAccJerk-mean()-Z"           
+[29] "frequencyrequencyBodyGyroscope-mean()-X"         
+[30] "frequencyrequencyBodyGyroscope-mean()-Y"         
+[31] "frequencyrequencyBodyGyroscope-mean()-Z"         
+[32] "frequencyrequencyBodyAccMag-mean()"              
+[33] "frequencyrequencyBodyBodyAccJerkMag-mean()"      
+[34] "frequencyrequencyBodyBodyGyroscopeMag-mean()"    
+[35] "frequencyrequencyBodyBodyGyroscopeJerkMag-mean()"
+
+## Activity labels
+
+- WALKING: Value 1 
+- WALKING_UPSTAIRS: Value 2 
+- WALKING_DOWNSTAIRS: Value 3 
+- SITTING: Value 4 
+- STANDING: Value 5 
+- LAYING: Value 6
